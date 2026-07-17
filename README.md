@@ -25,6 +25,12 @@ A console-based Fast Food Management System developed in C++ as a Programming Fu
 2. Compile the source code using C++ compiler.
 3. Run the program.
 
+## Documentation
+
+Project documentation is included in this repository.
+
+- 📄 Fast_Food_Management_System_Documentation.pdf
+  
 ## Author
 
 **Maisam Taqi**
